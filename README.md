@@ -21,7 +21,7 @@ Create a .env file in the root folder
 Copy values from the sample below
 
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/job_portal
+MONGO_URI=mongodb+srv://thakor77755:UHVpWXH9RO7ejHqg@cluster0.5jquedw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=your_jwt_secret
 ```
 
