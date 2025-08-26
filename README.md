@@ -29,7 +29,7 @@ Step 4: Run the server
 npm run dev
 
 Authentication & Job Application APIs
-
+LIVE URL:- https://job-application-portal-7kuz.onrender.com/
 ### 1. Register User
 
 **Endpoint:**  
