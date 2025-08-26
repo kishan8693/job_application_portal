@@ -51,7 +51,6 @@ export const uploadResume = async (req, res) => {
 export const applyJob = async (req, res) => {
     try {
         const { jobId } = req.params
-        console.log("jobId", jobId)
 
         if (!mongoose.Types.ObjectId.isValid(jobId)) {
             return res.status(400).json({

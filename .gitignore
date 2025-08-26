@@ -3,6 +3,3 @@ node_modules/
 
 # Env files
 .env
-
-# Uploaded resumes
-uploads/
